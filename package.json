@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "img2braille": "^1.0.1",
+    "standard": "^17.0.0"
+  }
+}
